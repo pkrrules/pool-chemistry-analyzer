@@ -1,0 +1,35 @@
+  3 tabs
+
+
+  Tab 1
+  - CSV upload
+
+  Tab 2
+  - Current pool state 
+  - summary of the pool state
+
+  Tab 3
+  - historical data of pool state
+
+
+
+  I want to build a pool chemistry analyzer. It shall have 3 tabs
+
+  Tab 1 - upload csv of pool chemistry  
+
+  Tab 2 - second tab should have view of my current state of the pool chemistry 
+    use green for good; red for bad and immediate attention
+    yellow for watch out
+
+  Tab 3 - historical data of state of pool; Present the various parameter were trending historicallly.
+
+  Stack 
+  - Streamlit
+  - and set this as uv project (example stock market data from )
+
+Also generate synthetic data
+- have a row for current state 
+- for historical data generate a random 500 measurements (assuming measurements are recorded every week; this roughly correseponds to 5 years)
+
+  Brainstorm your plan with me first before you code. Do not write any code
+  untl I give the go ahead. 
