@@ -10,6 +10,9 @@ and chart how each parameter has trended over time.
 uv run streamlit run app.py
 ```
 
+No `uv`? See [RUNNING_WITH_PIP.md](RUNNING_WITH_PIP.md) for a plain
+`pip` + `venv` setup (macOS-focused, step-by-step).
+
 ## Regenerate the synthetic demo data
 
 ```bash
